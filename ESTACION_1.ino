@@ -43,7 +43,7 @@ void loop() {
   Serial.print(pressure);
   Serial.println(" hPa");
 
-  if (temperature > 28) { 
+  if (temperature > 27) { 
     digitalWrite(RED_PIN, HIGH);
     digitalWrite(GREEN_PIN, LOW);
   } 
