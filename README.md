@@ -6,4 +6,5 @@ El proyecto propone integrar una solución IoT para optimizar el riego y el moni
 
 Además, se añadirá un _carrito auxiliar_ que asistirá en el monitoreo móvil de los distintos sectores del jardín o invernadero, verificando condiciones puntuales de las plantas y asegurando la correcta ejecución de las acciones automáticas.
 
+Realizado por: Sara López Marín
 
