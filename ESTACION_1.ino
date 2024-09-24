@@ -1,3 +1,4 @@
+//preguntar al profe por c y microusb
 #include <DHT.h>
 #include <Adafruit_BMP085_U.h>
 
@@ -5,7 +6,7 @@
 #define DHTTYPE DHT11    
 DHT dht(DHTPIN, DHTTYPE);
 
-Adafruit_BMP085_Unified bmp; //clase para trabajr con sensor sacada de pag arduino
+Adafruit_BMP085_Unified bmp; //clase para trabajr con sensor sacada de pag arduino preguntar al profe
 
 #define RED_PIN 25      
 #define GREEN_PIN 26    
